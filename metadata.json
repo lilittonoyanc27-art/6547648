@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra — Իսպաներեն Հանելուկներ (El Rosco)",
+  "description": "Интерактивная игра Пасапалабра (El Rosco) на испанском языке с армянским переводом по клику: 27 загадок про дни недели, цвета и путешествия.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
